@@ -24,9 +24,9 @@ Livecycle Docker Extension allows you to instantly and securely share your local
 
 3. **Share your local application:**
 
-   Once your application is running, open the Livecycle Docker Extension. Upon opening the extension, you will see your running application. To share your application, toggle the switch. This action will generate a public URL for your application for every service in your application. You can choose to share it publicly or privately.
+   Once your application is running, open the Livecycle Docker Extension. Upon opening the extension, you will see your running application. To share your application, toggle the "Shared" switch. This action will generate a public URL for your application for every service in your application. You can choose to share it publicly or privately.
 
-   Click the "Invite" button and invite at least one other person to join your Livecycle "organization". 
+   Then, click the "Invite" button and invite at least one other person to join your Livecycle "organization". This is a really important step!! 
 
 5. **Share a picture:**
 
