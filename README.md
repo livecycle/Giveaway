@@ -26,8 +26,9 @@ Livecycle Docker Extension instantly and securely share your local development e
 
 4. Share a picture
    
-   Share a picture of the the window with 
+   One the URL is generated, share a picture of your application (Sample shown in the below image) by tagging us on Twitter [@get_livecycle](https://twitter.com/get_livecycle) and [@Docker](https://twitter.com/Docker).
 
+    ![Public Url window](assets/public-url-window.png)
 
 ### FAQ
 
