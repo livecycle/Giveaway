@@ -9,7 +9,7 @@ Livecycle Docker Extension allows you to instantly and securely share your local
 - [ ] Install the Livecycle Docker Extension
 - [ ] Share a picture
 
-### Giveaway Steps
+### Giveaway Steps - Detailed
 
 1. **Install the Livecycle Docker Extension:**
 
