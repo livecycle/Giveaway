@@ -42,3 +42,8 @@ Head over to this [link](https://hub.docker.com/extensions/livecycle/docker-exte
 <br>
 Anyone can enter.
 </details>
+
+<details>
+<summary>How to join the Livecycle community?</summary>
+<br>
+Join our community on [Slack](https://community.livecycle.io/).
