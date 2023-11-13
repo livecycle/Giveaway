@@ -30,7 +30,14 @@ Livecycle Docker Extension allows you to instantly and securely share your local
 
 5. **Share a picture:**
 
-   Take a screenshot of your Livecycle org dashboard showing your app and your team and post it on X (AKA Twitter) by tagging [@get_livecycle](https://twitter.com/get_livecycle) and [@Docker](https://twitter.com/Docker).
+   Take a screenshot of your Livecycle org dashboard showing your app running and post it on X (AKA Twitter) by tagging [@get_livecycle](https://twitter.com/get_livecycle) and [@Docker](https://twitter.com/Docker).
+
+   Even though the names of the people in your org don't show on this screen, we'll be able to verify it on our side.
+
+   For reference, here's an example of the screen we want you to share:
+   
+   ![Screenshot 2023-11-13 at 7 20 19 PM](https://github.com/livecycle/Giveaway/assets/92805730/3b159847-4676-46a6-b9e6-13f701886e50)
+
 
    <!--![Public Url window](assets/public-url-window.png)-->
 
