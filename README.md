@@ -2,44 +2,43 @@
 
 ### What is Livecycle Docker Extension?
 
-Livecycle Docker Extension instantly and securely share your local development environment and get feedback much earlier in the development workflow, without the hassle of staging environments or CI builds.
+Livecycle Docker Extension allows you to instantly and securely share your local development environment and receive feedback much earlier in the development workflow, without the hassle of staging environments or CI builds.
 
 ### Giveaway Steps
 
 - [ ] Install the Livecycle Docker Extension
-- [ ] Share a picture 
+- [ ] Share a picture
 
+### Giveaway Steps
 
-### 
+1. **Install the Livecycle Docker Extension:**
 
-1. Install the Livecycle Docker Extension
+   Visit this [link](https://hub.docker.com/extensions/livecycle/docker-extension) and install the Livecycle Docker Extension. Alternatively, search for `Livecycle` in the Docker Extension Marketplace. After installation and opening the extension, you will be prompted to sign in. Sign in using your GitHub or Google account.
 
-   Head over to this [link](https://hub.docker.com/extensions/livecycle/docker-extension) and install the extension Or search for `Livecycle` in the Docker Extension Marketplace.
+2. **Run a Docker Compose application:**
 
-2. Run a Docker Compose application
+   Run a Docker Compose application on your local machine.
 
-   Run a application using Docker Compose.
+3. **Share your local application:**
 
-3. Share your Localhost application
-   
-    One your application is running, open the Livecycle Docker Extension and click turn on the toggle button. This will generate a public URL for your application. Share this URL with your friends and family.
+   Once your application is running, open the Livecycle Docker Extension. Upon opening the extension, you will see your running application. To share your application, toggle the switch. This action will generate a public URL for your application for every service in your application. You can choose to share it publicly or privately.
 
-4. Share a picture
-   
-   One the URL is generated, share a picture of your application (Sample shown in the below image) by tagging us on Twitter [@get_livecycle](https://twitter.com/get_livecycle) and [@Docker](https://twitter.com/Docker).
+4. **Share a picture:**
 
-    ![Public Url window](assets/public-url-window.png)
+   After the URL is generated, share a picture of your application (a sample is shown in the image below) by tagging us on Twitter [@get_livecycle](https://twitter.com/get_livecycle) and [@Docker](https://twitter.com/Docker).
+
+   ![Public Url window](assets/public-url-window.png)
 
 ### FAQ
 
 <details>
 <summary>How do I install the Livecycle Docker Extension?</summary>
 <br>
-Head over to this [link](https://hub.docker.com/extensions/livecycle/docker-extension) and install the extension Or search for `Livecycle` in the Docker Extension Marketplace.
+Head over to this [link](https://hub.docker.com/extensions/livecycle/docker-extension) and install the extension, or search for `Livecycle` in the Docker Extension Marketplace.
 </details>
 
 <details>
 <summary>Who can enter the giveaway?</summary>
 <br>
-Anyone
+Anyone can enter.
 </details>
