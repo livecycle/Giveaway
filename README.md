@@ -32,7 +32,10 @@ To enter the giveaway, follow these steps:
 
 - **STEP 3:** **Show us a screenshot** Share a screenshot of your [Livecycle org dashboard](https://app.livecycle.run/) on X (AKA Twitter) and tag @get_livecycle and @Docker.
   - To learn more about how to access the dashboard, check out the [docs](https://preevy.dev/integrations/docker-extension).
-  
+ 
+  Here's an example of what it looks like:
+
+ <p align="center"><img height=1000 alt="Tweet example" src="https://github.com/livecycle/Giveaway/assets/92805730/6a9efd11-582a-451a-8140-51ce701a6db3"></p>
 
 - **STEP 4:** (For BONUS POINTS :-) ) - Say hi in our [Livecycle Slack community](https://community.livecycle.io/). You can also ask us ANYTHING in the community if you run into any issues with the above steps.
 
