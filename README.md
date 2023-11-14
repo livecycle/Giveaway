@@ -1,5 +1,7 @@
 ## Livecycle Docker Extension Giveaway
 
+![Giveaway Banner](https://github.com/livecycle/Giveaway/assets/51878265/78c457ba-e51e-452a-a892-8ffdfa5e7be0)
+
 We are giving away a PS5 (and more!) 
 
 **Want to win???**
