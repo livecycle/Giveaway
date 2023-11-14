@@ -1,14 +1,26 @@
 ## Livecycle Docker Extension Giveaway
 
+We are giving away a PS5 (and more!) 
+
+**Want to win???**
+
+Enter your name by following the steps below and using our [Docker Extension](https://hub.docker.com/extensions/livecycle/docker-extension).
+
+---
+
 ### What is Livecycle Docker Extension?
 
-Livecycle Docker Extension allows you to instantly and securely share your local development environment and receive feedback much earlier in the development workflow, without the hassle of staging environments or CI builds.
+The Livecycle Docker Extension is a new tool that instantly shares your local development environment so others can review and give you feedback. It's great for ANY docker-compose compatible application you're working on.
 
-### Giveaway Steps
+---
 
-- Follow [@get_livecycle](https://twitter.com/get_livecycle) + share this post
+### How you can enter the giveaway
 
-- Use [Livecycle Docker Extension](https://hub.docker.com/extensions/livecycle/docker-extension).
+To enter the giveaway, follow these steps:
+
+- **STEP 1:** Follow [@get_livecycle](https://twitter.com/get_livecycle) + retweet the giveaway post
+
+- **STEP 2:** Use the [Livecycle Docker Extension](https://hub.docker.com/extensions/livecycle/docker-extension) like this:
 
   - **Install the extension:** The extension is available in the [Docker Extension Marketplace](https://hub.docker.com/extensions/livecycle/docker-extension). You can also look at our [docs](https://preevy.dev/integrations/docker-extension) to get started.
 
@@ -18,10 +30,15 @@ Livecycle Docker Extension allows you to instantly and securely share your local
 
   - **Invite a friend:** Click the "Invite" button and invite at least one other person to join your Livecycle "organization".
 
-  - **Share a screenshot** Share a screenshot of your Livecycle org dashboard on X (AKA Twitter) and tag @get_livecycle and @Docker. You can check out the [docs](https://preevy.dev/integrations/docker-extension) to learn how to access the dashboard.
+- **STEP 3:** **Show us a screenshot** Share a screenshot of your [Livecycle org dashboard](https://app.livecycle.run/) on X (AKA Twitter) and tag @get_livecycle and @Docker.
+  - To learn more about how to access the dashboard, check out the [docs](https://preevy.dev/integrations/docker-extension).
   
 
-- For BONUS POINTS - say hi in our [Livecycle Slack community](https://community.livecycle.io/)
+- **STEP 4:** (For BONUS POINTS :-) ) - Say hi in our [Livecycle Slack community](https://community.livecycle.io/). You can also ask us ANYTHING in the community if you run into any issues with the above steps.
+
+**THAT'S IT! You're now entered into the biggest giveaway the tech community has seen in a while**
+
+---
 
 ### FAQ
 
@@ -48,7 +65,6 @@ Anyone who installs the Livecycle Docker Extension, runs an application and shar
 <br>
 We are accepting submissions until the end of the day on Monday, November 20, 2023. 
 </details>
-
 
 <details>
 <summary>How many people need to enter in order to activate the giveaway?</summary>
