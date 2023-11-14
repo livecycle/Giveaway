@@ -4,42 +4,24 @@
 
 Livecycle Docker Extension allows you to instantly and securely share your local development environment and receive feedback much earlier in the development workflow, without the hassle of staging environments or CI builds.
 
-### Giveaway Steps (TL;DR)
+### Giveaway Steps
 
-- [ ] Follow [@get_livecycle](https://twitter.com/get_livecycle) + share this post
-- [ ] Install the [Livecycle Docker Extension](https://hub.docker.com/extensions/livecycle/docker-extension) & share a Docker Compose compatible app with (at least) 1 person
-- [ ] Share a screenshot of your Livecycle org dashboard on X (AKA Twitter) and tag @get_livecycle and @Docker
-- [ ] For BONUS POINTS - say hi in our [Livecycle Slack community](https://community.livecycle.io/)
+- Follow [@get_livecycle](https://twitter.com/get_livecycle) + share this post
 
+- Use [Livecycle Docker Extension](https://hub.docker.com/extensions/livecycle/docker-extension).
 
-### Giveaway Steps - With more details
+  - **Install the extension:** The extension is available in the [Docker Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=Livecycle.livecycle-docker-extension) or you can install it directly from the [extension page](https://hub.docker.com/extensions/livecycle/docker-extension).
 
-1. **Install the Livecycle Docker Extension:**
+  - **Run a Docker Compose application:** Run a Docker Compose application to use with Livecycle Extension and share with others.
 
-   Visit this [link](https://hub.docker.com/extensions/livecycle/docker-extension) and install the Livecycle Docker Extension. Alternatively, search for `Livecycle` in the Docker Extension Marketplace. After installation and opening the extension, you will be prompted to sign in. Sign in using your GitHub or Google account.
+  - **Share your local application:** Once your application is running, open the Livecycle Docker Extension. Upon opening the extension, you will see your running application. To share your application, toggle the "Shared" switch. This action will generate a public URL for your application for every service in your application. You can choose to share it publicly or privately.
 
-2. **Run a Docker Compose application:**
+  - **Invite a friend:** Click the "Invite" button and invite at least one other person to join your Livecycle "organization".
 
-   Run a Docker Compose application on your local machine.
+  - **Share a screenshot** Share a screenshot of your Livecycle org dashboard on X (AKA Twitter) and tag @get_livecycle and @Docker. You can check out the [docs](https://preevy.dev/integrations/docker-extension) to learn how to access the dashboard.
+  
 
-3. **Share your local application:**
-
-   Once your application is running, open the Livecycle Docker Extension. Upon opening the extension, you will see your running application. To share your application, toggle the "Shared" switch. This action will generate a public URL for your application for every service in your application. You can choose to share it publicly or privately.
-
-   Then, click the "Invite" button and invite at least one other person to join your Livecycle "organization". This is a really important step!! 
-
-5. **Share a picture:**
-
-   Take a screenshot of your Livecycle org dashboard showing your app running and post it on X (AKA Twitter) by tagging [@get_livecycle](https://twitter.com/get_livecycle) and [@Docker](https://twitter.com/Docker).
-
-   Even though the names of the people in your org don't show on this screen, we'll be able to verify it on our side.
-
-   For reference, here's an example of the screen we want you to share:
-   
-   ![Screenshot 2023-11-13 at 7 20 19 PM](https://github.com/livecycle/Giveaway/assets/92805730/3b159847-4676-46a6-b9e6-13f701886e50)
-
-
-   <!--![Public Url window](assets/public-url-window.png)-->
+- For BONUS POINTS - say hi in our [Livecycle Slack community](https://community.livecycle.io/)
 
 ### FAQ
 
