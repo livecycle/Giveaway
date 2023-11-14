@@ -10,9 +10,9 @@ Livecycle Docker Extension allows you to instantly and securely share your local
 
 - Use [Livecycle Docker Extension](https://hub.docker.com/extensions/livecycle/docker-extension).
 
-  - **Install the extension:** The extension is available in the [Docker Extension Marketplace](https://marketplace.visualstudio.com/items?itemName=Livecycle.livecycle-docker-extension) or you can install it directly from the [extension page](https://hub.docker.com/extensions/livecycle/docker-extension).
+  - **Install the extension:** The extension is available in the [Docker Extension Marketplace](https://hub.docker.com/extensions/livecycle/docker-extension). You can also look at our [docs](https://preevy.dev/integrations/docker-extension) to get started.
 
-  - **Run a Docker Compose application:** Run a Docker Compose application to use with Livecycle Extension and share with others.
+  - **Run a Docker Compose application:** Run a Docker Compose application which you would like to share with others using the Livecycle Docker Extension.
 
   - **Share your local application:** Once your application is running, open the Livecycle Docker Extension. Upon opening the extension, you will see your running application. To share your application, toggle the "Shared" switch. This action will generate a public URL for your application for every service in your application. You can choose to share it publicly or privately.
 
