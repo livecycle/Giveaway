@@ -1,45 +1,47 @@
 ## Livecycle Docker Extension Giveaway
 
+We are giving away a PS5 (and more!) 
+
+**Want to win???**
+
+Enter your name by following the steps below and using our [Docker Extension](https://hub.docker.com/extensions/livecycle/docker-extension).
+
+---
+
 ### What is Livecycle Docker Extension?
 
-Livecycle Docker Extension allows you to instantly and securely share your local development environment and receive feedback much earlier in the development workflow, without the hassle of staging environments or CI builds.
+The Livecycle Docker Extension is a new tool that instantly shares your local development environment so others can review and give you feedback. It's great for ANY docker-compose compatible application you're working on.
 
-### Giveaway Steps (TL;DR)
+---
 
-- [ ] Follow [@get_livecycle](https://twitter.com/get_livecycle) + share this post
-- [ ] Install the [Livecycle Docker Extension](https://hub.docker.com/extensions/livecycle/docker-extension) & share a Docker Compose compatible app with (at least) 1 person
-- [ ] Share a screenshot of your Livecycle org dashboard on X (AKA Twitter) and tag @get_livecycle and @Docker
-- [ ] For BONUS POINTS - say hi in our [Livecycle Slack community](https://community.livecycle.io/)
+### How you can enter the giveaway
 
+To enter the giveaway, follow these steps:
 
-### Giveaway Steps - With more details
+- **STEP 1:** Follow [@get_livecycle](https://twitter.com/get_livecycle) + retweet the giveaway post
 
-1. **Install the Livecycle Docker Extension:**
+- **STEP 2:** Use the [Livecycle Docker Extension](https://hub.docker.com/extensions/livecycle/docker-extension) like this:
 
-   Visit this [link](https://hub.docker.com/extensions/livecycle/docker-extension) and install the Livecycle Docker Extension. Alternatively, search for `Livecycle` in the Docker Extension Marketplace. After installation and opening the extension, you will be prompted to sign in. Sign in using your GitHub or Google account.
+  - **Install the extension:** The extension is available in the [Docker Extension Marketplace](https://hub.docker.com/extensions/livecycle/docker-extension). You can also look at our [docs](https://preevy.dev/integrations/docker-extension) to get started.
 
-2. **Run a Docker Compose application:**
+  - **Run a Docker Compose application:** Run a Docker Compose application which you would like to share with others using the Livecycle Docker Extension.
 
-   Run a Docker Compose application on your local machine.
+  - **Share your local application:** Once your application is running, open the Livecycle Docker Extension. Upon opening the extension, you will see your running application. To share your application, toggle the "Shared" switch. This action will generate a public URL for your application for every service in your application. You can choose to share it publicly or privately.
 
-3. **Share your local application:**
+  - **Invite a friend:** Click the "Invite" button and invite at least one other person to join your Livecycle "organization".
 
-   Once your application is running, open the Livecycle Docker Extension. Upon opening the extension, you will see your running application. To share your application, toggle the "Shared" switch. This action will generate a public URL for your application for every service in your application. You can choose to share it publicly or privately.
+- **STEP 3:** **Show us a screenshot** Share a screenshot of your [Livecycle org dashboard](https://app.livecycle.run/) on X (AKA Twitter) and tag @get_livecycle and @Docker.
+  - To learn more about how to access the dashboard, check out the [docs](https://preevy.dev/integrations/docker-extension).
+ 
+  Here's an example of what it looks like:
 
-   Then, click the "Invite" button and invite at least one other person to join your Livecycle "organization". This is a really important step!! 
+ <p align="center"><img height=1000 alt="Tweet example" src="https://github.com/livecycle/Giveaway/assets/92805730/6a9efd11-582a-451a-8140-51ce701a6db3"></p>
 
-5. **Share a picture:**
+- **STEP 4:** (For BONUS POINTS :-) ) - Say hi in our [Livecycle Slack community](https://community.livecycle.io/). You can also ask us ANYTHING in the community if you run into any issues with the above steps.
 
-   Take a screenshot of your Livecycle org dashboard showing your app running and post it on X (AKA Twitter) by tagging [@get_livecycle](https://twitter.com/get_livecycle) and [@Docker](https://twitter.com/Docker).
+**THAT'S IT! You're now entered into the biggest giveaway the tech community has seen in a while**
 
-   Even though the names of the people in your org don't show on this screen, we'll be able to verify it on our side.
-
-   For reference, here's an example of the screen we want you to share:
-   
-   ![Screenshot 2023-11-13 at 7 20 19 PM](https://github.com/livecycle/Giveaway/assets/92805730/3b159847-4676-46a6-b9e6-13f701886e50)
-
-
-   <!--![Public Url window](assets/public-url-window.png)-->
+---
 
 ### FAQ
 
@@ -66,7 +68,6 @@ Anyone who installs the Livecycle Docker Extension, runs an application and shar
 <br>
 We are accepting submissions until the end of the day on Monday, November 20, 2023. 
 </details>
-
 
 <details>
 <summary>How many people need to enter in order to activate the giveaway?</summary>
