@@ -50,7 +50,9 @@ To enter the giveaway, follow these steps:
 <details>
 <summary>How do I install the Livecycle Docker Extension?</summary>
 <br>
+
 Head over to this [link](https://hub.docker.com/extensions/livecycle/docker-extension) and install the extension, or search for `Livecycle` in the Docker Extension Marketplace.
+
 </details>
 
 <details>
@@ -80,4 +82,7 @@ We need at least 500 unique participants to activate the giveaway. So be sure to
 <details>
 <summary>How to join the Livecycle community?</summary>
 <br>
+
 Join our community on [Slack](https://community.livecycle.io/).
+
+</details>
