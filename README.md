@@ -20,7 +20,7 @@ The Livecycle Docker Extension is a new tool that instantly shares your local de
 
 To enter the giveaway, follow these steps:
 
-- **STEP 1:** Follow [@get_livecycle](https://twitter.com/get_livecycle) + retweet the giveaway post
+- **STEP 1:** Follow [@get_livecycle](https://twitter.com/intent/follow?screen_name=get_livecycle) + retweet the [giveaway post](https://x.com/get_livecycle/status/1724066281698013430?s=20).
 
 - **STEP 2:** Use the [Livecycle Docker Extension](https://hub.docker.com/extensions/livecycle/docker-extension) like this:
 
