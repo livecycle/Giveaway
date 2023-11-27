@@ -70,7 +70,7 @@ Anyone who installs the Livecycle Docker Extension, runs an application and shar
 <details>
 <summary>How long will this giveaway be open for submissions?</summary>
 <br>
-We are accepting submissions until the end of the day on Monday, November 28, 2023. 
+We are accepting submissions until the end of November. 
 </details>
 
 <details>
